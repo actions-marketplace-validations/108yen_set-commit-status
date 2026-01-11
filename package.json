@@ -26,7 +26,7 @@
   ],
   "author": "108yen",
   "license": "MIT",
-  "packageManager": "pnpm@10.26.2",
+  "packageManager": "pnpm@10.27.0",
   "pnpm": {
     "onlyBuiltDependencies": [
       "lefthook"
@@ -60,7 +60,7 @@
     "eslint-plugin-perfectionist": "^4.0.0",
     "eslint-plugin-unused-imports": "^4.1.4",
     "find-packages": "^10.0.4",
-    "globals": "^16.0.0",
+    "globals": "^17.0.0",
     "lefthook": "^2.0.0",
     "prettier": "^3.3.3",
     "semver": "^7.6.3",
